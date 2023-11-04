@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>3-2: PHP Lab</title>
+        <title>3-2: PH Lab</title>
         <link type="text/css" rel="stylesheet" href="index.css">
     </head>
     <body>
